@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.datasource.userjbdc",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.userjbdc'"
+  },
+  {
+    "name": "spring.datasource.passwor",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.passwor'"
+  },
+  {
+    "name": "spring.datasource.tomcat.test-wle-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.tomcat.test-wle-idle'"
+  },
+  {
+    "name": "management.security.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.security.enabled'"
+  },
+  {
+    "name": "security.basic.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'security.basic.enable'"
+  }
+]}
